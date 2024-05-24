@@ -5,24 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dbeea63-720d-4979-b416-273ae6add574" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlproject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlproject/components/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlproject/components/data_ingestion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlproject/components/data_transformation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlproject/components/model_monitering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlproject/components/model_trainer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlproject/exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlproject/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlproject/pipelines/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlproject/pipelines/prediction_pipeline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlproject/pipelines/training_pipeline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mlproject/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mlprojects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mlprojects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mlproject/components/data_ingestion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlproject/components/data_ingestion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mlproject/exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlproject/exception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mlproject/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlproject/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mlproject/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlproject/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +33,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -53,14 +47,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.app.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
