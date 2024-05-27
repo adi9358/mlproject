@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dbeea63-720d-4979-b416-273ae6add574" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mlprojects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mlprojects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/data/raw.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mlproject/components/data_ingestion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlproject/components/data_ingestion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mlproject/exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlproject/exception.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mlproject/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlproject/logger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mlproject/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mlproject/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +47,8 @@
     "Python.app.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
