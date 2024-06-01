@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adity/PycharmProjects/mlprojects/mlruns/0/b3ec74d38b534086bb8e9729cd6be38f/artifacts
+end_time: 1717222839944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3ec74d38b534086bb8e9729cd6be38f
+run_name: wistful-robin-801
+run_uuid: b3ec74d38b534086bb8e9729cd6be38f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717222835895
+status: 3
+tags: []
+user_id: root
